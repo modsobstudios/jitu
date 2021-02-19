@@ -1,2 +1,2 @@
-plugins:  - audioinfo
-theme: jekyll-theme-hacker
+plugins:  
+  - audioinfo
